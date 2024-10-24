@@ -1,0 +1,9 @@
+.driverhomepage{
+    height: 100vh;
+    background-color: rgb(233,238,246);
+}
+
+.driverform{
+    width:43%;
+    height:60%;
+}
